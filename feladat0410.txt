@@ -1,0 +1,4 @@
+Feladat 0410
+Olvassunk be két számot, és a nagyobbat osszuk el a kisebbel!
+
+Mentés: osztas
